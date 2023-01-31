@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Teste de deploy do Amplify
+          Testando o Branch de test
         </p>
         <a
           className="App-link"
