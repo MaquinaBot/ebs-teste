@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testando o Branch de test
+          teste 02
         </p>
         <a
           className="App-link"
